@@ -1,6 +1,6 @@
 p
 {
-    color:darkred;
+    color:rgb(44, 1, 1);
 }
 
 p
@@ -10,11 +10,11 @@ p
 
 body
 {
-    background-color:rgb(107, 107, 83);
+    background-color:rgb(160, 104, 118);
 }
 
 div
 {
-    max-width: 400px;
+    max-width: 600px;
 }
 
