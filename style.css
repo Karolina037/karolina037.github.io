@@ -16,10 +16,24 @@ body
 div
 {
     max-width: 600px;
+    margin: auto;
 }
 
 #head
 
 {
     font-size:18pt;
+}
+
+#plaza{
+
+    text-align: center;
+}
+
+img
+
+{
+
+    border: 5px solid rgb(158, 119, 190);
+   
 }
